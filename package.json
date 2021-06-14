@@ -1,0 +1,14 @@
+{
+  "name": "ionicons-source",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dmitriy Kovalenko <dmtr.kovalenko@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "thesaurus": "^0.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.1"
+  }
+}
